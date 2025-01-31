@@ -23,5 +23,6 @@ I'm constantly exploring the latest advancements in Generative AI and Cybersecur
 ## Connect with me
 
 * **LinkedIn:** [https://www.linkedin.com/in/sarath-rajan-senthilkumar-496375240/] 
-* **HuggingFace:** [https://huggingface.co/Sarathrsk03] 
+* **HuggingFace:** [https://huggingface.co/Sarathrsk03]
+* **Google Scholar:** [https://scholar.google.com/citations?user=qCJa8BMAAAAJ&hl=en]
 
