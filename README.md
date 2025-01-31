@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there! 👋 I'm Sarath Rajan Senthilkumar
 
-<!--
-**Sarathrsk03/Sarathrsk03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A final-year Computer Science and Engineering (CSE) student at VIT Chennai, your friendly neighborhood Python Developer, and a Global Affairs enthusiast. I'm passionate about crafting simple and practical solutions to complex problems.  I also hold a Google Cybersecurity Certificate.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I thrive in collaborative environments and enjoy leading teams with a positive and energetic approach. I believe that teamwork makes the dream work, and I strive to make every coding project an enjoyable and productive experience.  I'm always eager to learn new technologies and explore different areas within the tech world.
+
+## What I Do
+
+I specialize in Python development, with a keen interest in Generative AI, Cybersecurity.  My focus is on building impactful and user-friendly applications.
+
+## Skills
+
+* **Languages:** Python, SQL, HTML/CSS
+* **Technologies/Frameworks:** Gradio, Gemini, FastAPI
+* **Other:** Generative AI, Cybersecurity, Project Management, Data Engineering
+
+## Currently Learning
+
+I'm constantly exploring the latest advancements in Generative AI and Cybersecurity to further enhance my skillset.
+
+## Connect with me
+
+* **LinkedIn:** [https://www.linkedin.com/in/sarath-rajan-senthilkumar-496375240/] 
+* **HuggingFace:** [https://huggingface.co/Sarathrsk03] 
+
