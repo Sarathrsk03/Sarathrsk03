@@ -21,4 +21,4 @@ I'm constantly exploring the latest advancements in Generative AI and Cybersecur
 * **Google Scholar:** [https://scholar.google.com/citations?user=qCJa8BMAAAAJ&hl=en](https://scholar.google.com/citations?user=qCJa8BMAAAAJ&hl=en)
 
 ## Badges
-<img src="Badges/aws-certified-ai-practitioner.png" width="200"> <img src="Badges/google-cybersecurity-professional-certificate-v2.png" width="200">
+<img src="Badges/aws-certified-ai-practitioner.png" width="200"> <img src="Badges/google-cybersecurity-professional-certificate-v2.png" width="200"> <img src="Badges/google-project-management-professional-certificate-.1.png" width="200">
