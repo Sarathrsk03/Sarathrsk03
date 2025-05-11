@@ -22,3 +22,4 @@ I'm constantly exploring the latest advancements in Generative AI and Cybersecur
 
 ## Badges
 ![AWS AI Practioner](Badges/aws-certified-ai-practitioner.png)
+![Google Cybersecurity Certifcate](Badges/google-cybersecurity-professional-certificate-v2.png)
