@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Sarath Rajan Senthilkumar
-A final-year Computer Science and Engineering (CSE) student at VIT Chennai, your friendly neighborhood Python Developer, and a Global Affairs enthusiast. I'm passionate about crafting simple and practical solutions to complex problems. I also hold a Google Cybersecurity Certificate.
+A final-year Computer Science and Engineering (CSE) student at VIT Chennai, your friendly neighborhood Python Developer, and a Global Affairs enthusiast. I'm passionate about crafting simple and practical solutions to complex problems. 
 
 ## About Me
 I thrive in collaborative environments and enjoy leading teams with a positive and energetic approach. I believe that teamwork makes the dream work, and I strive to make every coding project an enjoyable and productive experience. I'm always eager to learn new technologies and explore different areas within the tech world.
