@@ -21,4 +21,4 @@ I'm constantly exploring the latest advancements in Generative AI and Cybersecur
 * **Google Scholar:** [https://scholar.google.com/citations?user=qCJa8BMAAAAJ&hl=en](https://scholar.google.com/citations?user=qCJa8BMAAAAJ&hl=en)
 
 ## Badges
-! [AWS AI Practioner] (https://github.com/Sarathrsk03/Sarathrsk03/blob/main/Badges/aws-certified-ai-practitioner.png)
+![AWS AI Practioner](Badges/aws-certified-ai-practitioner.png)
